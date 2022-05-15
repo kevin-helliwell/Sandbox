@@ -5,7 +5,7 @@
 # print("Hello, World!")
 
 # (3)
-import turtle
+import turtle1
 # turtle.color("blue")
 # turtle.forward(50)
 
